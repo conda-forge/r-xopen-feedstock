@@ -1,11 +1,11 @@
-About r-xopen
-=============
+About r-xopen-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xopen-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/xopen#readme
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-xopen-feedstock/blob/main/LICENSE.txt)
 
 Summary: Cross platform solution to open files, directories or 'URLs' with their associated programs.
 
